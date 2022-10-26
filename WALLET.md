@@ -156,6 +156,7 @@ If your wallet implements the Wallet Standard, it will be detected by this examp
 
 ## Appendix: Reference implementations
 
+- [Exodus](https://github.com/solana-labs/wallet-standard/tree/master/packages/wallets/exodus)
 - [Ghost](https://github.com/solana-labs/wallet-standard/tree/master/packages/wallets/ghost)
 - [Phantom](https://github.com/solana-labs/wallet-standard/tree/master/packages/wallets/phantom)
 - [Solflare](https://github.com/solana-labs/wallet-standard/tree/master/packages/wallets/solflare)
